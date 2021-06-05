@@ -63,7 +63,6 @@ abstract class AbstractStatus {
 			'protected'                 => true,
 			'public'                    => false,
 			'publicly_queryable'        => false,
-			'private'                   => true,
 		);
 
 		/**
